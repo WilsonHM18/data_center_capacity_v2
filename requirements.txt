@@ -1,0 +1,7 @@
+pyomo>=6.9
+xarray>=2024.1
+pandas>=2.0
+openpyxl>=3.1
+netCDF4>=1.7
+scipy>=1.10
+numpy>=1.26
